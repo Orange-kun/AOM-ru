@@ -1,0 +1,3 @@
+Zhong Kui's God Power sends roots up through the Earth's crust to damage enemy buildings. Buildings located within the area of effect are then surrounded by possessed roots which will keep on damaging the buildings until they are destroyed. The more buildings in the area, the stronger the effect of the God Power. 
+
+To use Uproot on your enemies, select the Uproot icon at the top of the screen, then left-click near the enemy buildings that you want to damage. The enemy buildings you wish to target must be within your <link="topic:line of sight">line of sight</link>.

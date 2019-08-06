@@ -1,0 +1,3 @@
+Chang'e orders her husband Houyi to send down a barrage of arrows to protect her followers. The Barrage can be used to target any spot, but is most effective on large groups of units. Buildings are also affected but to a much lesser extent.
+
+To send down a Barrage of arrows, left-click the Barrage icon, and then left-click anywhere within your <link="topic:line of sight">line of sight</link>.

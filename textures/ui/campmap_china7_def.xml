@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<definition>
+	<locale name="Brazilian">
+		<texture>UI\br\campmap_china7</texture>
+	</locale>
+	<locale name="Taiwan">
+		<texture>UI\cn\campmap_china7</texture>
+	</locale>
+	<locale name="French">
+		<texture>UI\fr\campmap_china7</texture>
+	</locale>
+	<locale name="German">
+		<texture>UI\de\campmap_china7</texture>
+	</locale>
+	<locale name="Italian">
+		<texture>UI\it\campmap_china7</texture>
+	</locale>
+	<locale name="Korean">
+		<texture>UI\ko\campmap_china7</texture>
+	</locale>
+	<locale name="Spanish">
+		<texture>UI\es\campmap_china7</texture>
+	</locale>
+	<locale name="Russian">
+		<texture>UI\campmap_R_china7</texture>
+	</locale>
+</definition>

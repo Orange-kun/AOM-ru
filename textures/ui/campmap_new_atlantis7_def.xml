@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<definition>
+	<locale name="Brazilian">
+		<texture>UI\campmap_B_New_Atlantis7</texture>
+	</locale>
+	<locale name="Taiwan">
+		<texture>UI\campmap_C_New_Atlantis7</texture>
+	</locale>
+	<locale name="French">
+		<texture>UI\campmap_F_New_Atlantis7</texture>
+	</locale>
+	<locale name="German">
+		<texture>UI\campmap_G_New_Atlantis7</texture>
+	</locale>
+	<locale name="Italian">
+		<texture>UI\campmap_I_New_Atlantis7</texture>
+	</locale>
+	<locale name="Korean">
+		<texture>UI\campmap_K_New_Atlantis7</texture>
+	</locale>
+	<locale name="Spanish">
+		<texture>UI\campmap_S_New_Atlantis7</texture>
+	</locale>
+	<locale name="Russian">
+		<texture>UI\campmap_R_New_Atlantis7</texture>
+	</locale>
+</definition>

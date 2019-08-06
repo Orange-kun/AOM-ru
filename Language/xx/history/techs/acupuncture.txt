@@ -1,0 +1,3 @@
+Nü Wa grants your Villagers the knowledge of Acupuncture, allowing them to slowly heal over time.
+
+Acupuncture is believed to have originated in ancient China around 100 BC. It was first mentioned in the 'Huangdi Neijing', an ancient Chinese medical text that formed the fundamentals of traditional Chinese medicine for over 2 millennia. The principal element of acupuncture involves the insertion of thin needles into the patient's body at certain acupuncture points, which leads to pain relief. In its early development, acupuncture was practiced in close relation to spirituality. It was believed that the effectiveness of the therapy was influenced by the time of day, the lunar cycle, and even the season. 

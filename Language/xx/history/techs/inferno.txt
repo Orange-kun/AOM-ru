@@ -1,0 +1,3 @@
+Chongli unleashes his fiery wrath on the enemy by casting the Inferno God Power. This Mythic Age God Power will burn down enemy buildings and scorch any units located inside its radius. The Inferno is not very selective once unleashed, so look out for allied units in the targeted area.
+
+To unleash an Inferno, left-click on the Inferno God Power icon at the top of the screen, and then left-click anywhere on the map. The targeted area must be within your <link="topic:line of sight">line of sight</link>.
